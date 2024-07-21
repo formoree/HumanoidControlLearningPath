@@ -10,4 +10,6 @@
 
 学习顺序设计：
 
-+ 1
++ CS 287: Advanced Robotics (fall 2019)
+  + [Optimal Control, Reinforcement Learning & Robotics Projects in CS 287: Advanced Robotics (fall 2019) (github.com)](https://github.com/mj-hwang/cs287-advanced-robotics) ：homework
+  + [harvard-ml-courses/cs287-s18: Public course repo (github.com)](https://github.com/harvard-ml-courses/cs287-s18)
