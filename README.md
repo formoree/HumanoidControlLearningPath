@@ -7,6 +7,14 @@
   
 + Courses：所看的一些课程
 
+  + CS287--UC Berkeley
+    + [CS287 Fall 2019 (berkeley.edu)](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+    + [Lecture 5 LQR -- CS287-FA19 Advanced Robotics at UC Berkeley (youtube.com)](https://www.youtube.com/watch?v=S5LavPCJ5vw)
+
 + Blog&Video：博客或者视频的笔记
 
++ 项目指南
+
+  + [formoree/LearningHumanoidWalkingOP3: Providing Stable Locomotion, Standing, and Recovery Capabilities for the OP3 Robot (github.com)](https://github.com/formoree/LearningHumanoidWalkingOP3)
+  
   
