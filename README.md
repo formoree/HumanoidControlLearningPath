@@ -13,6 +13,10 @@
 
 + Blog&Video：博客或者视频的笔记
 
++ Book
+
+  + 仿人机器人：最先学习的书目
+
 + 项目指南
 
   + [formoree/LearningHumanoidWalkingOP3: Providing Stable Locomotion, Standing, and Recovery Capabilities for the OP3 Robot (github.com)](https://github.com/formoree/LearningHumanoidWalkingOP3)
